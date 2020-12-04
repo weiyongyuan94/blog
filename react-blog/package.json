@@ -8,7 +8,7 @@
     "babel-polyfill": "^6.26.0",
     "gitalk": "^1.4.1",
     "gsap": "^2.0.2",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^10.4.1",
     "jsonp": "^0.2.1",
     "key-mirror": "^1.0.1",
     "marked": "^0.5.2",
